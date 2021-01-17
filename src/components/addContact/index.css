@@ -1,0 +1,9 @@
+.addContact select{
+    background-color: transparent;    
+}
+
+.addContact button{
+    background-color: transparent;
+    color: antiquewhite;
+    border: 1px solid antiquewhite;
+}

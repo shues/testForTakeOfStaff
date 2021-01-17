@@ -1,0 +1,12 @@
+.contValue{
+    margin-left: 10px;
+    flex-grow: 1;
+}
+
+a:visited{
+    color: gray;
+}
+
+a{
+    color: lightgray;
+}

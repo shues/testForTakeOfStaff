@@ -1,0 +1,32 @@
+.profile{
+    border: 1px solid antiquewhite;
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    min-height: 400px;
+}
+
+.contactsList{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    width: 250px;
+}
+
+.contactsList button{
+    border: 1px solid antiquewhite;
+    border-radius: 4px;
+    background-color: transparent;
+    color: antiquewhite;
+    font-size: large;
+}
+
+.exitButton{
+    cursor: pointer;
+    text-decoration: underline;
+    text-align: right;
+}

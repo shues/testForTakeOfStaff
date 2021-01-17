@@ -1,0 +1,21 @@
+.searchForm input{
+    background-color: transparent;
+    border: 1px solid antiquewhite;
+    border-radius: 4px;
+    /* font-size: large; */
+    width: 150px;
+    margin-right: 10px;
+    color: antiquewhite;
+}
+
+.searchForm{
+    /* border: 1px solid antiquewhite; */
+    display: flex;
+    flex-direction: row-reverse;
+    border-bottom: 1px solid antiquewhite;
+    padding-bottom: 15px;
+}
+
+.searchForm span{
+    cursor: default;
+}

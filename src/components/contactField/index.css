@@ -1,0 +1,29 @@
+.contactField button {
+    background-color: transparent;
+    border: 0;
+    font-size: 11px;
+}
+
+.contactField input{
+    width: 125px;
+    background-color: transparent;
+    border: 1px solid antiquewhite;
+    border-radius: 3px;
+    color: antiquewhite;
+    font-size: 15px;
+}
+
+.contactField select{
+    background-color: transparent;
+    border: 1px solid antiquewhite;
+    color: antiquewhite;
+}
+
+.contactField{
+    display: flex;
+    flex-direction: row;
+}
+
+.contactField span{
+    cursor: default;
+}
