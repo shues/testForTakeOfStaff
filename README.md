@@ -3,6 +3,7 @@
 this project is test work for Take of Staff company
 
 I do this work for got the Frontend developer(React) position
+
 </p>
 <p>
 this project is private accaunt with contacts list of user.
@@ -18,10 +19,10 @@ for install project
 clone repository at your machine with git clone command
 </li>
 <li>
-after loading files type "cd takeOfStaff"
+after loading files type <code>cd takeOfStaff</code>
 </li>
 <li>
-type npm install for loading dependences
+type <code>npm install</code> for loading dependences
 </li>
 </ul>
 
@@ -32,9 +33,10 @@ running
 for run project 
 type <code>npm start</code> in the project directory
 
-by default project started on <u>"localhost:3080"</u>
+by default project will star on <i>"localhost:3080"</i>
 
-for change port of project open file "pacage.json" and remove <u>"PORT=3080"</u> in section <u>"scripts"</u> string <u>"start"</u>
+for change port of project open file "pacage.json" and remove <i>"PORT=3080"</i> in section <i>"scripts"</i> string <i>"start"</i>
+
 </p>
 <p>
 have a nice day )
