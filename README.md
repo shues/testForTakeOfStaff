@@ -7,7 +7,14 @@ I do this work for got the Frontend developer(React) position
 </p>
 <p>
 this project is private accaunt with contacts list of user.
+
+there are some tests accounts:
 </p>
+<ul>
+<li>login: admin, password: admin</li>
+<li>login: user, password: user</li>
+<li>login: director, password: director</li>
+</ul>
 <h2>
 insallation
 </h2>
